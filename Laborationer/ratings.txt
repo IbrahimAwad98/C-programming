@@ -1,0 +1,22 @@
+Amritpal	3	Monopoly	5	Risk	7	Tic-tac-toe	6
+Lubna	3	Pictionary	4	Acquire	7	Monopoly	8
+Mira	10	Scrabble	10	Catan	3	Uno	6	Chess	9	Checkers	7	Go	5	Carcassonne	8	Dominion	4	Pandemic	7	Azul	6
+Peter	0
+Ralf	3	Chess	8	Checkers	9	Go	10
+Afshin	0
+Layla	10	Tic-tac-toe	4	Pictionary	6	Love Letter	2	Splendor	5	Gloomhaven	6	Catan	1	Azul	2	Chess	6	Carcassonne	7	Checkers	8
+Karim	10	Catan	3	Carcassonne	3	Codenames	5	Dominion	7	Ark Nova	4	Terraforming Mars	10	Azul	3	Dixit	2	Pandemic	7	Tic-tac-toe	3
+Aisha	3	Tic-tac-toe	10	Brass: Birmingham	6	Tapestry	5
+Othman	0
+Yasmine	3	Go	4	Splendor	4	Monopoly	9
+Zain	3	Agricola	3	Brass: Birmingham	7	Tapestry	7
+Hiba	0
+Samir	10	Monopoly	10	Lost Ruins of Arnak	1	Uno	8	Terraforming Mars	6	Root	2	Agricola	8	Everdell	10	Go	5	Checkers	8	Scythe	8
+Mina	3	Everdell	7	7 Wonders	3	Agricola	10
+Omar	0
+Jad	3	Checkers	2	Carcassonne	10	Root	4
+Sofia	3	Ark Nova	7	Lost Ruins of Arnak	4	Terraforming Mars	1
+Rami	0
+Tala	0
+Nadia	3	Root	6	Terraforming Mars	10	Love Letter	4
+Bilal	10	Everdell	9	Chess	3	Wingspan	8	Tic-tac-toe	9	Tapestry	8	Lost Ruins of Arnak	1	Ticket to Ride	3	Acquire	8	Risk	3	Scrabble	2
